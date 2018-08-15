@@ -1,0 +1,6 @@
+SELECT neighbourhood_cleansed, AVG(review_scores_rating) avgscore
+FROM reallistings
+WHERE reviews_per_month >= 5
+GROUP BY neighbourhood_cleansed
+ORDER BY avgscore DESC
+LIMIT 10
