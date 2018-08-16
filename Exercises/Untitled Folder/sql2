@@ -1,0 +1,3 @@
+select Journaltitle, Cost
+from newlist
+order by Cost desc

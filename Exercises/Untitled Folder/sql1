@@ -1,0 +1,4 @@
+select Journaltitle, count(*)
+from newlist
+group by 1
+order by count(*) desc
