@@ -1,4 +1,0 @@
-SELECT name, id, price, listing_url, description, accommodates
-FROM reallistings
-ORDER BY price DESC
-LIMIT 10

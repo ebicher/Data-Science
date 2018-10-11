@@ -1,5 +1,0 @@
-SELECT date, COUNT(*) numofrentals
-FROM calendar
-WHERE available = 'f'
-GROUP BY date
-ORDER BY numofrentals DESC

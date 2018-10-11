@@ -1,4 +1,0 @@
-SELECT date, AVG(realprice) avgprice
-FROM realcalendar
-GROUP BY date
-ORDER BY avgprice ASC

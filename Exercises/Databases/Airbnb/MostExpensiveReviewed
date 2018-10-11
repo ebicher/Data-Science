@@ -1,5 +1,0 @@
-select name, listing_url, price, description
-from reallistings
-where number_of_reviews >= 3
-order by price desc
-limit 10

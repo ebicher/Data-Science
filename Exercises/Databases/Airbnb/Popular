@@ -1,4 +1,0 @@
-SELECT neighbourhood_cleansed, SUM(number_of_reviews) totalreviews
-FROM reallistings
-GROUP BY 1
-ORDER BY totalreviews DESC
