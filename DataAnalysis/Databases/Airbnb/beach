@@ -1,0 +1,3 @@
+SELECT AVG(price)
+FROM reallistings
+WHERE description LIKE "%beach%"

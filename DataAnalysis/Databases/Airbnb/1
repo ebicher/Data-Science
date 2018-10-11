@@ -1,0 +1,4 @@
+select date, avg(realprice) avgprice
+from realcalendar
+group by 1
+order by avgprice desc

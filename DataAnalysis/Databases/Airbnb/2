@@ -1,0 +1,4 @@
+select neighbourhood_cleansed, avg(price) avgprice
+from reallistings
+group by 1
+order by avgprice desc

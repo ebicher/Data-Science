@@ -1,0 +1,4 @@
+SELECT neighbourhood_cleansed, COUNT(id) numofspots
+FROM reallistings
+GROUP BY 1
+ORDER BY numofspots DESC

@@ -1,0 +1,5 @@
+CREATE TABLE realcalendar AS
+SELECT *,
+replace(price, '$','') realprice
+FROM calendar
+where available='t'
