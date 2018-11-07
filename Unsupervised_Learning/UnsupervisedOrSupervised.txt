@@ -1,0 +1,25 @@
+
+
+For each of these scenarios decide if you could use supervised or unsupervised techniques, or both!
+
+    Define the likelihood that an individual will contract a specific disease
+    
+    -Supervised learning. You could do a classification model and have it predict the probability.
+    
+    Translate a set of images into variables for modeling
+    
+    -Unsupervised Learning.
+    
+    An ecommerce company wants to identify power users
+    
+    -Unsupervised learning, or possibily supervised learning using a classification model. (ex. Poweruser = 1)
+    
+    That same company wants to see shopping patterns in users
+    
+    -Unsupervised learning.
+    
+    You want to reduce the number of variables inputting into your random forest model
+    
+    -Unsupervised learning using PCA. Or you could do supervised and look at feature importance.
+
+If any of these scenarios are unclear feel free to follow up with your mentor.
