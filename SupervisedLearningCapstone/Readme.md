@@ -9,9 +9,13 @@ For this model I will mainly be focusing on reducing Type II errors. These are f
 ## Data
 
 Data is from: https://www.kaggle.com/mlg-ulb/creditcardfraud
+
 The dataset contains credit card transactions in September 2013 by European cardholders. 
+
 Consists of 284,807 rows and 31 columns (30 features)
+
 Due to confidentiality issues, they couldn’t release original feature names or background information
+
 V(1-28) features were transformed using PCA
 
 
