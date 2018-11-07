@@ -5,6 +5,8 @@ The goal is to create a model which can correctly predict if a transaction on a 
 For this model I will mainly be focusing on reducing Type II errors. These are fraudulent transactions that were not marked as fraud. From a business standpoint, a credit company would benefit more from catching fraudulent activity even if it comes at the cost of incorrectly flagging some normal transactions and forcing the customer to call the company and verify a purchase. 
     
     Flagging Fraud (Type II) > Incorrectly Flagging Valid Transaction (Type I)
+    
+Presentation Slides: https://docs.google.com/presentation/d/e/2PACX-1vRCpPyxbZksDqNqqdO4TcMsiid87CSDTmV1i0Qvw8Z2zLr0I7Bgy8NLmA0A5nndVxSnzbzbiYoEGyiu/pub?start=false&loop=false&delayms=10000
 
 ## Data
 
