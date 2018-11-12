@@ -50,6 +50,7 @@ CreditCardFraud-Upsample (Model creation using upsampled data via SMOTE)
 CreditCardFraud-UpsampleWRONG (Model creation using upsampled datat via copying, which leads to a very overfit model)
 MemoryShrink (Method for reducing the memory usage for the data which is called in the other files)
 RFCvsXGB (Comparing a XGBClassifer and a Random Forest Classifer)
+Credit Card Fraud Detection with XGB.pdf - Slide Deck
 
 ```
 
